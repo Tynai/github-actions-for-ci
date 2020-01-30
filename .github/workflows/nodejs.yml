@@ -18,6 +18,9 @@ jobs:
         with:
           name: webpack artifacts
           path: public/
+        with:
+          name: webpack artifacts
+          path: public/
 
   test:
 
